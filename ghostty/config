@@ -1,0 +1,7 @@
+theme = catppuccin-macchiato.conf
+font-family = "JetBrains Mono"
+font-feature = -calt
+font-feature = -dlig
+font-feature = -liga
+
+
